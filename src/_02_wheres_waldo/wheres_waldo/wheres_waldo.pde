@@ -3,7 +3,7 @@ void setup() {
   size(500, 500);
   waldo.resize(width, height);
   image(waldo, 0, 0);
-  doh = minim.loadSample("drum beats.mp3"); //drag and drop from project onto sketch
+ woohoo = minim.loadSample("drum beats.mp3"); //drag and drop from project onto sketch
   //woohoo = minim.loadSample("drum beats.mp3"); //drag and drop from project onto sketch } 
 }
 
