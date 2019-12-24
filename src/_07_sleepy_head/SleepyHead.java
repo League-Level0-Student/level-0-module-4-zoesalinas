@@ -15,8 +15,7 @@ public class SleepyHead {
         /* You MUST use the above boolean variables in your code */
         
         /*
-         * Ask the user for these values using a confirm dialog like the one below
-         * JOptionPane.showConfirmDialog(null, "Is it a weekday?", "Sleepy Head", JOptionPane.YES_NO_OPTION);
+         * Ask the user for these values using a confirm dialog like the one underneath
          */
     
 
